@@ -83,3 +83,7 @@ http://127.0.0.1:5000/
 Prachi Gujar
 
 GitHub: https://github.com/PrachiGujar12
+
+## Project URL
+
+GitHub Repository: https://github.com/PrachiGujar12/expense_tracker
